@@ -22,4 +22,4 @@ The historical data of the stock prices for the last 10 years is fetched from [Y
 
 The comparative chart of the stock prices of the five companies is as follows:
 
-
+![chart](https://github.com/HarshitNTiwari/Markowitz-Model/blob/main/assets/Comparitive_stock_price_chart.png)
