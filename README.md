@@ -4,7 +4,7 @@ The aim is to create a portfolio containing stocks of the FAANG companies: FB, A
 
 The portfolio is to be optimised in such a way that highest return is achieved for a given risk. 
 
-The historical data of the stock prices for the last 10 years is fetched from [Yahoo! Finance](https://finance.yahoo.com/) using the yFinance library. The data looks as follows:
+The historical data of the stock prices for the last 10 years is fetched from [Yahoo! Finance](https://finance.yahoo.com/) using the yFinance library.
 
 The comparative chart of the stock prices of the five companies is as follows:
 
