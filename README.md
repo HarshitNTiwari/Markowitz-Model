@@ -23,3 +23,16 @@ The historical data of the stock prices for the last 10 years is fetched from [Y
 The comparative chart of the stock prices of the five companies is as follows:
 
 ![chart](https://github.com/HarshitNTiwari/Markowitz-Model/blob/main/assets/comparitive_stock_price_chart.png)
+
+In order to create the most efficient portfolio, first 10000 different random portfolios are made and are plotted on a Returns Vs Risk plot. 
+Each circle in the plot below represents a portfolio. The portfolios towards the upper left side of the plot (yellowish circles) are the more efficient ones as they provide more returns for lesser risk.
+
+![Plot 1](https://github.com/HarshitNTiwari/Markowitz-Model/blob/main/assets/Return_vs_Risk_1.png)
+
+Among these 10000 portfolios, the one with the highest returns-to-risk ratio is the most efficient portfolio. It is marked with a green star in the plot below:
+
+![Plot 2](https://github.com/HarshitNTiwari/Markowitz-Model/blob/main/assets/Return_vs_Risk_2.png)
+
+The weights for this optimal portfolio are : [0.046 0.451 0.267 0.081  0.154]
+
+
