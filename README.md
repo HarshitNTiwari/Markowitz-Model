@@ -21,7 +21,7 @@ Among these 10000 portfolios, the one with the highest returns-to-risk ratio is 
 
 The weights for this optimal portfolio are : [0.046  0.451  0.267  0.081   0.154].
 
-The above results suggest[^1] that according to the data of last one decade, an optimal portfolio diversification among the FAANG companies would be something like: 5.9% in FB, 46% in AAPL, 38% in AMZN, 9.2% in NFLX and 0% in GOOG. At this distribution, you can achieve 27% annual returns at 25% risk with best return-to-risk ratio being 1.08.
+The above results suggest[^1] that according to the data of last one decade, an optimal portfolio diversification among the FAANG companies would be something like: 4.6% in FB, 45.1% in AAPL, 26.7% in AMZN, 8.1% in NFLX and 15.4% in GOOG. At this distribution, you can achieve 25% annual returns at 23% risk with best return-to-risk ratio being 1.07
 
 [^1]: Not meant as an actual financial advice!
 
