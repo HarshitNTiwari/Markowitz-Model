@@ -1,6 +1,10 @@
 # Markowitz-Model
-Python implementation of Markowitz's Portfolio Optimization Model
+This project is a Python implementation of Markowitz's Portfolio Optimization Model. 
+The aim is to create a portfolio containing stocks of the FAANG companies: FB, AAPL, AMZN, NFLX, GOOG.
 
+The portfolio is to be optimised in such a way that highest return is achieved for a given risk. 
+
+The historical data of the stock prices for the last 10 years is fetched from [Yahoo! Finance](https://finance.yahoo.com/) using the yFinance library. The data looks as follows:
 
 |    Date    |        FB   |      AAPL  |       AMZN  |      NFLX  |       GOOG   |
 | ---------- | ----------- | ---------- | ----------  | ---------  | ----------   |        
@@ -15,3 +19,7 @@ Python implementation of Markowitz's Portfolio Optimization Model
 | 2021-12-29 | 342.940002  | 178.888916 | 3384.020020 | 610.539978 | 2930.090088  |
 | 2021-12-30 | 344.359985  | 177.712143 | 3372.889893 | 612.090027 | 2920.050049  |
 | 2021-12-31 | 336.350006  | 177.083878 | 3334.340088 | 602.440002 | 2893.590088  |
+
+The comparative chart of the stock prices of the five companies is as follows:
+
+
